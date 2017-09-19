@@ -1,10 +1,10 @@
-(\s|<)(o|O)[^F][^ ]*?@[^ ]*(.com|.org)
+((\s|^)|<)(o|O)[^F][^ ]*?@[^ ]*(.com|.org)
 31
 	Line 5389: To: outlook.team@enron.com
 	Line 10713: To: outlook.team@enron.com
 	Line 11587:  Outlook.2000@enron.com
 	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
-	Line 30118:  off-yild@zdemail.zdlists.com.
+	Line 30118: off-yild@zdemail.zdlists.com.
 	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
 	Line 35982: Sender: owner-strawbale@crest.org
 	Line 36031: From: owner-strawbale@crest.org
@@ -15,7 +15,7 @@
 	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
 	Line 52637: From: outlook-migration-team@enron.com
 	Line 52653: From: outlook-migration-team@enron.com
-	Line 54430:  ove@commissioner.com . Do not respond to this email directly.   =09
+	Line 54430: ove@commissioner.com . Do not respond to this email directly.   =09
 	Line 59228: From: online.service@schwab.com
 	Line 59234: X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
 	Line 64780: 	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
@@ -23,7 +23,7 @@
 	Line 68983: X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
 	Line 73066: From: oportunity@cells4free.com
 	Line 73072: X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
-	Line 81775:  off-yild@zdemail.zdlists.com.
+	Line 81775: off-yild@zdemail.zdlists.com.
 	Line 81779: blank e-mail to on-yild@zdemail.zdlists.com
 	Line 85063: From: owner-strawbale@crest.org
 	Line 85068: X-From: owner-strawbale@crest.org
