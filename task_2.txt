@@ -1,8 +1,8 @@
-((\s|^)|<)(o|O)[^F][^ ]*?@[^ ]*(.com|.org)
+[^A-Za-z0-9_.-](o|O)[^F][^ ]*@[^ ]*(.com|.org)
 31
 	Line 5389: To: outlook.team@enron.com
 	Line 10713: To: outlook.team@enron.com
-	Line 11587:  Outlook.2000@enron.com
+	Line 11587: Outlook.2000@enron.com
 	Line 19964: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
 	Line 30118: off-yild@zdemail.zdlists.com.
 	Line 30122: blank e-mail to on-yild@zdemail.zdlists.com
@@ -11,7 +11,7 @@
 	Line 36036: X-From: owner-strawbale@crest.org
 	Line 36055: Sender: owner-strawbale@crest.org
 	Line 38056: To: outlook.team@enron.com
-	Line 39073:  Outlook.2000@enron.com
+	Line 39073: Outlook.2000@enron.com
 	Line 48002: O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
 	Line 52637: From: outlook-migration-team@enron.com
 	Line 52653: From: outlook-migration-team@enron.com
